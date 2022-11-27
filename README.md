@@ -22,7 +22,7 @@ Summing up, I can say that I got the skills to create my own repo and the practi
 
 Photo of program code
 
-![image](/last_version/Code.png)
+![image](/Images/Code.png)
 
 When you open this file, the line appears:
 
@@ -34,4 +34,4 @@ As you can see, this is a really simple program.
 ---
 
 ### Contacts:
-[![telegram](/last_version/Telegram_logo.png)](https://t.me/Opisthorch1s)
+[![telegram](/Images/Telegram_logo.png)](https://t.me/Opisthorch1s)
